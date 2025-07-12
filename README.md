@@ -33,8 +33,8 @@ The dataset is a synthetic file created for educational and portfolio purposes w
 | Total_Amount        | Total revenue from the booking                   |
 | Rooms_Available     | Rooms available during booking period            |
 
-## Data Files and Report
-
+## Data Files 
+- <a href = "https://github.com/Bharath-kumar4703/Hotel-Booking-Report-Using-Power-BI/blob/main/Hotel_Booking_Data.csv">Hotel_Booking_Data</a>
 
 ---
 

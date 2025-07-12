@@ -40,7 +40,7 @@ The dataset is a synthetic file created for educational and portfolio purposes w
 ---
 
 ## 🔧 DAX Measures Used
-```DAX
+DAX
 Total Revenue = SUM(Hotel_Booking_Data[Total_Amount])
 
 ADR = DIVIDE(SUM(Hotel_Booking_Data[Total_Amount]), COUNTROWS(FILTER(Hotel_Booking_Data, Hotel_Booking_Data[Status] = "Confirmed")))
@@ -76,6 +76,8 @@ ________________________________________
 2.	Open the .pbix file in Power BI Desktop.
 3.	Explore the interactive visuals and analyze hotel booking insights.
 4.	Customize or connect to your own dataset if needed.
+
+---
 
 
 ## 📌 Key Insights from the Hotel Booking Report

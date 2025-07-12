@@ -1,0 +1,201 @@
+Booking_ID,Hotel_Name,Check_In_Date,Check_Out_Date,Room_Type,Guests,Room_Rate,Booking_Channel,Status,Total_Amount,Rooms_Available
+BKG0001,Grand Palace,2023-01-13,2023-01-16,Standard,2,100,Website,Confirmed,300,97
+BKG0002,Grand Palace,2023-10-30,2023-11-03,Standard,1,75,Travel Agent,Confirmed,300,78
+BKG0003,Grand Palace,2023-10-15,2023-10-17,Suite,4,100,Mobile App,Confirmed,200,91
+BKG0004,Grand Palace,2023-03-23,2023-03-27,Deluxe,3,100,Travel Agent,No-show,0,61
+BKG0005,Grand Palace,2023-02-17,2023-02-21,Standard,3,120,Walk-in,Cancelled,0,86
+BKG0006,Mountain Retreat,2023-10-02,2023-10-03,Deluxe,1,200,Walk-in,Cancelled,0,79
+BKG0007,Ocean View,2023-10-23,2023-10-25,Suite,1,75,Travel Agent,Confirmed,150,45
+BKG0008,Sunset Inn,2023-02-21,2023-02-25,Deluxe,4,120,Travel Agent,Confirmed,480,53
+BKG0009,Ocean View,2023-12-26,2023-12-27,Suite,2,200,Travel Agent,Confirmed,200,64
+BKG0010,Ocean View,2023-11-24,2023-11-29,Standard,3,75,Travel Agent,Cancelled,0,91
+BKG0011,Ocean View,2023-07-25,2023-07-28,Standard,2,200,Walk-in,Confirmed,600,71
+BKG0012,Mountain Retreat,2023-11-26,2023-11-30,Standard,3,100,Travel Agent,Confirmed,400,74
+BKG0013,Ocean View,2023-10-27,2023-10-31,Suite,4,120,Travel Agent,No-show,0,48
+BKG0014,Mountain Retreat,2023-02-16,2023-02-17,Standard,2,100,Mobile App,Confirmed,100,64
+BKG0015,Mountain Retreat,2023-11-02,2023-11-06,Suite,3,200,Website,Confirmed,800,47
+BKG0016,Ocean View,2023-11-25,2023-11-28,Standard,3,150,Travel Agent,Confirmed,450,86
+BKG0017,Ocean View,2023-09-14,2023-09-16,Suite,1,120,Travel Agent,Confirmed,240,88
+BKG0018,Sunset Inn,2023-10-04,2023-10-09,Standard,3,150,Website,Confirmed,750,63
+BKG0019,Ocean View,2023-05-03,2023-05-04,Standard,1,75,Mobile App,Cancelled,0,88
+BKG0020,Sunset Inn,2023-03-07,2023-03-11,Suite,2,120,Mobile App,No-show,0,99
+BKG0021,Sunset Inn,2024-01-01,2024-01-04,Deluxe,3,150,Mobile App,Confirmed,450,54
+BKG0022,Grand Palace,2023-06-23,2023-06-24,Suite,2,200,Travel Agent,Confirmed,200,85
+BKG0023,Grand Palace,2023-04-28,2023-04-29,Standard,3,75,Travel Agent,Confirmed,75,71
+BKG0024,Sunset Inn,2023-10-04,2023-10-06,Suite,4,100,Mobile App,Cancelled,0,52
+BKG0025,Grand Palace,2023-02-19,2023-02-23,Deluxe,4,150,Mobile App,Cancelled,0,43
+BKG0026,Grand Palace,2023-02-01,2023-02-05,Suite,3,75,Travel Agent,Confirmed,300,74
+BKG0027,Mountain Retreat,2023-03-13,2023-03-17,Standard,3,150,Travel Agent,Cancelled,0,44
+BKG0028,Mountain Retreat,2023-10-09,2023-10-10,Standard,1,75,Travel Agent,Confirmed,75,71
+BKG0029,Mountain Retreat,2023-04-20,2023-04-24,Standard,2,150,Website,No-show,0,56
+BKG0030,Mountain Retreat,2023-05-27,2023-05-31,Suite,4,100,Travel Agent,Confirmed,400,43
+BKG0031,Grand Palace,2023-06-10,2023-06-11,Standard,4,200,Travel Agent,Confirmed,200,72
+BKG0032,Grand Palace,2023-04-06,2023-04-07,Suite,1,100,Mobile App,Confirmed,100,96
+BKG0033,Sunset Inn,2023-10-24,2023-10-29,Standard,1,150,Walk-in,Cancelled,0,53
+BKG0034,Ocean View,2023-05-03,2023-05-06,Deluxe,2,120,Mobile App,Confirmed,360,88
+BKG0035,Grand Palace,2023-01-05,2023-01-09,Suite,1,75,Travel Agent,Confirmed,300,48
+BKG0036,Ocean View,2023-02-05,2023-02-07,Deluxe,3,100,Mobile App,Cancelled,0,85
+BKG0037,Ocean View,2023-11-10,2023-11-15,Standard,3,75,Travel Agent,Confirmed,375,96
+BKG0038,Grand Palace,2023-10-11,2023-10-13,Deluxe,3,200,Travel Agent,Confirmed,400,53
+BKG0039,Ocean View,2023-09-16,2023-09-20,Deluxe,1,75,Mobile App,Cancelled,0,42
+BKG0040,Grand Palace,2023-06-20,2023-06-22,Suite,3,100,Mobile App,Confirmed,200,67
+BKG0041,Grand Palace,2023-02-27,2023-02-28,Suite,2,200,Website,Cancelled,0,77
+BKG0042,Sunset Inn,2023-08-09,2023-08-11,Standard,3,120,Website,Cancelled,0,53
+BKG0043,Sunset Inn,2023-12-08,2023-12-09,Deluxe,4,200,Travel Agent,Cancelled,0,55
+BKG0044,Sunset Inn,2023-04-01,2023-04-05,Standard,2,120,Mobile App,Cancelled,0,95
+BKG0045,Sunset Inn,2023-05-17,2023-05-19,Suite,1,150,Website,Cancelled,0,54
+BKG0046,Sunset Inn,2023-08-24,2023-08-27,Deluxe,2,100,Website,Confirmed,300,65
+BKG0047,Ocean View,2023-05-23,2023-05-24,Deluxe,3,200,Mobile App,Confirmed,200,93
+BKG0048,Ocean View,2023-01-15,2023-01-16,Deluxe,2,200,Walk-in,Confirmed,200,78
+BKG0049,Mountain Retreat,2023-06-26,2023-06-29,Deluxe,1,150,Travel Agent,Confirmed,450,85
+BKG0050,Mountain Retreat,2023-01-01,2023-01-06,Suite,2,120,Mobile App,Confirmed,600,82
+BKG0051,Ocean View,2023-11-16,2023-11-19,Suite,1,120,Walk-in,Confirmed,360,60
+BKG0052,Mountain Retreat,2023-12-23,2023-12-26,Suite,2,100,Mobile App,Confirmed,300,64
+BKG0053,Sunset Inn,2023-11-12,2023-11-17,Deluxe,4,200,Website,Confirmed,1000,53
+BKG0054,Mountain Retreat,2023-10-24,2023-10-29,Suite,3,150,Mobile App,Confirmed,750,53
+BKG0055,Mountain Retreat,2023-03-28,2023-03-29,Deluxe,3,75,Travel Agent,Confirmed,75,54
+BKG0056,Sunset Inn,2023-03-17,2023-03-18,Standard,2,150,Website,Confirmed,150,96
+BKG0057,Sunset Inn,2023-12-23,2023-12-27,Deluxe,4,100,Travel Agent,Confirmed,400,40
+BKG0058,Grand Palace,2023-08-06,2023-08-08,Standard,4,75,Travel Agent,Cancelled,0,47
+BKG0059,Mountain Retreat,2023-03-10,2023-03-14,Suite,3,150,Mobile App,Cancelled,0,75
+BKG0060,Mountain Retreat,2023-03-23,2023-03-27,Deluxe,3,100,Walk-in,Confirmed,400,73
+BKG0061,Mountain Retreat,2023-11-17,2023-11-19,Deluxe,4,75,Walk-in,Confirmed,150,61
+BKG0062,Ocean View,2023-10-04,2023-10-05,Standard,2,100,Mobile App,Confirmed,100,85
+BKG0063,Sunset Inn,2023-02-02,2023-02-06,Deluxe,3,200,Mobile App,Confirmed,800,53
+BKG0064,Mountain Retreat,2023-07-19,2023-07-24,Suite,1,200,Mobile App,Confirmed,1000,100
+BKG0065,Ocean View,2023-06-02,2023-06-06,Deluxe,2,150,Travel Agent,Confirmed,600,71
+BKG0066,Grand Palace,2023-07-19,2023-07-22,Suite,4,100,Mobile App,Cancelled,0,79
+BKG0067,Grand Palace,2023-07-21,2023-07-26,Suite,1,75,Mobile App,Confirmed,375,69
+BKG0068,Sunset Inn,2023-01-26,2023-01-29,Deluxe,3,100,Mobile App,Confirmed,300,88
+BKG0069,Mountain Retreat,2023-05-23,2023-05-27,Deluxe,1,150,Website,Confirmed,600,43
+BKG0070,Ocean View,2023-04-25,2023-04-26,Suite,1,75,Travel Agent,Confirmed,75,41
+BKG0071,Sunset Inn,2023-05-03,2023-05-05,Deluxe,1,200,Travel Agent,Confirmed,400,56
+BKG0072,Ocean View,2023-03-27,2023-04-01,Suite,1,100,Walk-in,Confirmed,500,41
+BKG0073,Ocean View,2023-10-22,2023-10-26,Deluxe,2,75,Travel Agent,Confirmed,300,89
+BKG0074,Ocean View,2023-12-17,2023-12-22,Standard,1,120,Mobile App,Confirmed,600,44
+BKG0075,Ocean View,2023-01-07,2023-01-11,Deluxe,1,150,Walk-in,Confirmed,600,93
+BKG0076,Mountain Retreat,2023-12-29,2023-12-31,Deluxe,2,200,Walk-in,Confirmed,400,98
+BKG0077,Mountain Retreat,2023-08-27,2023-08-31,Suite,3,120,Travel Agent,Cancelled,0,45
+BKG0078,Ocean View,2023-08-19,2023-08-21,Deluxe,4,120,Website,Confirmed,240,60
+BKG0079,Sunset Inn,2023-09-07,2023-09-09,Deluxe,3,120,Walk-in,Cancelled,0,84
+BKG0080,Ocean View,2023-10-12,2023-10-13,Suite,2,75,Travel Agent,Confirmed,75,71
+BKG0081,Sunset Inn,2023-12-20,2023-12-24,Suite,4,150,Website,Confirmed,600,54
+BKG0082,Mountain Retreat,2023-12-21,2023-12-23,Deluxe,3,150,Walk-in,Confirmed,300,87
+BKG0083,Ocean View,2023-06-30,2023-07-04,Deluxe,3,120,Travel Agent,Confirmed,480,52
+BKG0084,Ocean View,2023-03-03,2023-03-08,Suite,2,100,Travel Agent,Confirmed,500,57
+BKG0085,Ocean View,2023-02-21,2023-02-23,Deluxe,2,120,Travel Agent,Confirmed,240,85
+BKG0086,Sunset Inn,2023-05-21,2023-05-22,Standard,3,100,Mobile App,Confirmed,100,40
+BKG0087,Ocean View,2023-08-29,2023-09-02,Deluxe,3,100,Website,Confirmed,400,95
+BKG0088,Mountain Retreat,2023-02-28,2023-03-01,Deluxe,4,75,Website,Confirmed,75,91
+BKG0089,Ocean View,2023-02-13,2023-02-15,Standard,4,200,Travel Agent,Confirmed,400,64
+BKG0090,Mountain Retreat,2023-08-15,2023-08-18,Suite,4,120,Website,Confirmed,360,87
+BKG0091,Grand Palace,2023-04-17,2023-04-19,Deluxe,1,100,Travel Agent,Confirmed,200,44
+BKG0092,Sunset Inn,2023-01-02,2023-01-06,Deluxe,4,120,Website,Confirmed,480,85
+BKG0093,Ocean View,2023-12-26,2023-12-30,Standard,2,120,Travel Agent,Confirmed,480,74
+BKG0094,Sunset Inn,2023-11-28,2023-11-30,Deluxe,2,75,Website,Confirmed,150,59
+BKG0095,Ocean View,2023-08-13,2023-08-14,Deluxe,3,150,Walk-in,Confirmed,150,71
+BKG0096,Mountain Retreat,2023-02-11,2023-02-16,Standard,4,120,Walk-in,Confirmed,600,54
+BKG0097,Grand Palace,2023-12-11,2023-12-14,Suite,1,100,Mobile App,Confirmed,300,68
+BKG0098,Ocean View,2023-04-03,2023-04-08,Deluxe,4,75,Mobile App,Confirmed,375,61
+BKG0099,Ocean View,2023-12-10,2023-12-11,Standard,3,150,Mobile App,Confirmed,150,100
+BKG0100,Mountain Retreat,2023-10-09,2023-10-10,Deluxe,1,120,Walk-in,Confirmed,120,89
+BKG0101,Mountain Retreat,2023-09-21,2023-09-22,Suite,4,150,Website,Confirmed,150,63
+BKG0102,Mountain Retreat,2023-11-17,2023-11-21,Standard,2,120,Travel Agent,Cancelled,0,68
+BKG0103,Mountain Retreat,2023-03-04,2023-03-05,Suite,2,100,Walk-in,Confirmed,100,75
+BKG0104,Mountain Retreat,2023-02-17,2023-02-19,Standard,4,75,Travel Agent,Confirmed,150,85
+BKG0105,Ocean View,2023-09-18,2023-09-21,Deluxe,4,150,Travel Agent,Confirmed,450,49
+BKG0106,Mountain Retreat,2023-04-08,2023-04-13,Suite,2,75,Walk-in,Confirmed,375,94
+BKG0107,Mountain Retreat,2023-06-24,2023-06-29,Deluxe,1,120,Walk-in,Cancelled,0,77
+BKG0108,Mountain Retreat,2023-03-18,2023-03-22,Suite,4,120,Walk-in,Confirmed,480,74
+BKG0109,Mountain Retreat,2023-08-22,2023-08-25,Standard,2,200,Mobile App,Confirmed,600,89
+BKG0110,Mountain Retreat,2023-01-23,2023-01-26,Suite,4,150,Mobile App,No-show,0,90
+BKG0111,Sunset Inn,2023-09-11,2023-09-12,Standard,3,75,Mobile App,Confirmed,75,98
+BKG0112,Mountain Retreat,2023-01-08,2023-01-10,Deluxe,2,75,Mobile App,Confirmed,150,56
+BKG0113,Ocean View,2023-11-16,2023-11-20,Suite,1,120,Mobile App,No-show,0,80
+BKG0114,Mountain Retreat,2023-10-05,2023-10-06,Suite,1,100,Walk-in,No-show,0,87
+BKG0115,Grand Palace,2023-08-11,2023-08-12,Suite,1,150,Travel Agent,Confirmed,150,97
+BKG0116,Grand Palace,2023-01-24,2023-01-27,Standard,3,120,Walk-in,Confirmed,360,55
+BKG0117,Mountain Retreat,2023-10-17,2023-10-19,Standard,2,75,Mobile App,Confirmed,150,55
+BKG0118,Mountain Retreat,2023-10-26,2023-10-28,Standard,4,120,Mobile App,Confirmed,240,40
+BKG0119,Mountain Retreat,2023-05-28,2023-06-02,Standard,1,150,Walk-in,No-show,0,59
+BKG0120,Mountain Retreat,2023-12-20,2023-12-23,Deluxe,3,100,Mobile App,Cancelled,0,46
+BKG0121,Sunset Inn,2023-07-15,2023-07-20,Deluxe,3,120,Website,No-show,0,82
+BKG0122,Mountain Retreat,2023-05-21,2023-05-22,Suite,1,200,Mobile App,Cancelled,0,97
+BKG0123,Ocean View,2023-04-28,2023-05-03,Deluxe,2,100,Walk-in,Confirmed,500,86
+BKG0124,Sunset Inn,2023-11-18,2023-11-19,Suite,1,120,Mobile App,Confirmed,120,63
+BKG0125,Sunset Inn,2023-02-16,2023-02-19,Deluxe,4,100,Travel Agent,Confirmed,300,74
+BKG0126,Ocean View,2023-09-29,2023-10-04,Deluxe,2,120,Mobile App,No-show,0,58
+BKG0127,Ocean View,2023-02-28,2023-03-04,Standard,2,100,Mobile App,No-show,0,91
+BKG0128,Ocean View,2023-02-16,2023-02-20,Standard,3,200,Website,Confirmed,800,83
+BKG0129,Ocean View,2023-10-27,2023-10-31,Suite,3,75,Travel Agent,Confirmed,300,79
+BKG0130,Ocean View,2023-11-09,2023-11-11,Suite,1,150,Walk-in,Confirmed,300,47
+BKG0131,Sunset Inn,2023-01-24,2023-01-25,Deluxe,4,75,Website,Confirmed,75,74
+BKG0132,Sunset Inn,2023-07-18,2023-07-22,Deluxe,4,200,Travel Agent,Cancelled,0,81
+BKG0133,Grand Palace,2023-09-08,2023-09-13,Deluxe,3,75,Walk-in,Confirmed,375,68
+BKG0134,Sunset Inn,2023-07-05,2023-07-06,Suite,3,200,Walk-in,Confirmed,200,57
+BKG0135,Sunset Inn,2023-03-04,2023-03-08,Standard,2,200,Website,Confirmed,800,61
+BKG0136,Sunset Inn,2023-03-06,2023-03-11,Standard,1,200,Travel Agent,Confirmed,1000,92
+BKG0137,Sunset Inn,2023-06-18,2023-06-20,Suite,1,120,Travel Agent,No-show,0,74
+BKG0138,Ocean View,2023-03-31,2023-04-01,Suite,1,100,Website,Confirmed,100,90
+BKG0139,Sunset Inn,2023-10-29,2023-11-01,Standard,2,120,Website,Confirmed,360,66
+BKG0140,Grand Palace,2023-02-02,2023-02-06,Deluxe,3,200,Website,Confirmed,800,54
+BKG0141,Grand Palace,2023-12-04,2023-12-09,Deluxe,4,75,Website,No-show,0,94
+BKG0142,Mountain Retreat,2023-08-07,2023-08-08,Deluxe,4,75,Website,Confirmed,75,49
+BKG0143,Grand Palace,2023-03-06,2023-03-09,Suite,3,150,Walk-in,Confirmed,450,78
+BKG0144,Mountain Retreat,2023-02-20,2023-02-21,Suite,2,150,Mobile App,Cancelled,0,66
+BKG0145,Ocean View,2023-08-21,2023-08-25,Deluxe,1,120,Mobile App,Confirmed,480,56
+BKG0146,Ocean View,2023-03-20,2023-03-24,Standard,1,75,Website,Confirmed,300,87
+BKG0147,Ocean View,2023-03-08,2023-03-13,Standard,3,75,Mobile App,Confirmed,375,82
+BKG0148,Mountain Retreat,2023-01-27,2023-01-30,Suite,3,120,Website,Confirmed,360,53
+BKG0149,Sunset Inn,2023-12-03,2023-12-07,Standard,1,120,Walk-in,Confirmed,480,57
+BKG0150,Sunset Inn,2023-08-08,2023-08-13,Suite,1,200,Walk-in,Confirmed,1000,57
+BKG0151,Ocean View,2023-06-23,2023-06-26,Standard,2,100,Mobile App,Confirmed,300,87
+BKG0152,Grand Palace,2023-02-16,2023-02-21,Standard,4,150,Mobile App,Confirmed,750,63
+BKG0153,Ocean View,2023-06-16,2023-06-21,Suite,1,75,Travel Agent,Confirmed,375,79
+BKG0154,Grand Palace,2023-12-12,2023-12-13,Deluxe,4,150,Mobile App,Confirmed,150,66
+BKG0155,Ocean View,2023-04-21,2023-04-26,Standard,3,150,Website,Confirmed,750,83
+BKG0156,Mountain Retreat,2023-09-27,2023-09-30,Standard,2,150,Website,Confirmed,450,59
+BKG0157,Sunset Inn,2023-03-12,2023-03-15,Deluxe,3,75,Website,Confirmed,225,67
+BKG0158,Sunset Inn,2023-03-08,2023-03-12,Suite,2,200,Walk-in,Confirmed,800,95
+BKG0159,Grand Palace,2023-08-12,2023-08-13,Deluxe,1,120,Mobile App,Confirmed,120,85
+BKG0160,Mountain Retreat,2023-05-29,2023-05-30,Deluxe,1,120,Travel Agent,Cancelled,0,79
+BKG0161,Mountain Retreat,2023-12-20,2023-12-23,Standard,4,75,Travel Agent,Confirmed,225,65
+BKG0162,Grand Palace,2023-07-22,2023-07-25,Suite,3,100,Walk-in,Confirmed,300,44
+BKG0163,Grand Palace,2023-09-29,2023-10-04,Standard,3,120,Travel Agent,Confirmed,600,49
+BKG0164,Ocean View,2023-04-12,2023-04-14,Suite,2,75,Travel Agent,No-show,0,80
+BKG0165,Mountain Retreat,2023-08-26,2023-08-31,Suite,4,200,Walk-in,Cancelled,0,80
+BKG0166,Ocean View,2023-03-19,2023-03-23,Standard,4,150,Walk-in,Confirmed,600,77
+BKG0167,Grand Palace,2023-06-30,2023-07-05,Standard,3,150,Mobile App,Confirmed,750,63
+BKG0168,Ocean View,2023-02-09,2023-02-10,Suite,4,150,Website,Confirmed,150,91
+BKG0169,Sunset Inn,2023-06-14,2023-06-19,Deluxe,2,75,Mobile App,Confirmed,375,97
+BKG0170,Ocean View,2024-01-01,2024-01-02,Suite,2,75,Travel Agent,Confirmed,75,68
+BKG0171,Sunset Inn,2023-07-06,2023-07-09,Deluxe,4,150,Walk-in,Confirmed,450,43
+BKG0172,Ocean View,2023-02-03,2023-02-06,Standard,4,120,Walk-in,Confirmed,360,82
+BKG0173,Sunset Inn,2023-06-20,2023-06-21,Suite,2,120,Walk-in,No-show,0,84
+BKG0174,Mountain Retreat,2023-03-08,2023-03-13,Suite,1,120,Mobile App,Confirmed,600,61
+BKG0175,Sunset Inn,2023-12-10,2023-12-15,Standard,4,200,Walk-in,Confirmed,1000,59
+BKG0176,Sunset Inn,2023-04-20,2023-04-23,Deluxe,2,100,Travel Agent,Confirmed,300,58
+BKG0177,Grand Palace,2023-09-17,2023-09-22,Suite,1,120,Travel Agent,Confirmed,600,49
+BKG0178,Sunset Inn,2023-04-03,2023-04-08,Standard,4,75,Mobile App,Confirmed,375,86
+BKG0179,Sunset Inn,2023-08-16,2023-08-21,Deluxe,4,100,Travel Agent,Confirmed,500,91
+BKG0180,Mountain Retreat,2023-04-10,2023-04-13,Suite,4,150,Walk-in,Confirmed,450,72
+BKG0181,Mountain Retreat,2023-03-24,2023-03-26,Suite,2,120,Website,Confirmed,240,95
+BKG0182,Ocean View,2023-10-11,2023-10-12,Suite,1,120,Website,Confirmed,120,57
+BKG0183,Mountain Retreat,2023-09-20,2023-09-22,Deluxe,1,100,Mobile App,Cancelled,0,99
+BKG0184,Grand Palace,2023-08-01,2023-08-02,Deluxe,3,100,Mobile App,No-show,0,63
+BKG0185,Sunset Inn,2023-01-15,2023-01-18,Standard,3,100,Travel Agent,Confirmed,300,98
+BKG0186,Mountain Retreat,2023-12-23,2023-12-25,Suite,4,150,Website,Cancelled,0,41
+BKG0187,Ocean View,2023-04-21,2023-04-23,Suite,4,75,Walk-in,Confirmed,150,47
+BKG0188,Grand Palace,2023-05-03,2023-05-07,Suite,4,75,Website,Cancelled,0,71
+BKG0189,Grand Palace,2023-11-20,2023-11-25,Suite,2,100,Walk-in,Confirmed,500,79
+BKG0190,Ocean View,2023-05-04,2023-05-09,Deluxe,2,75,Walk-in,Confirmed,375,73
+BKG0191,Grand Palace,2023-07-19,2023-07-23,Standard,4,120,Walk-in,Confirmed,480,62
+BKG0192,Grand Palace,2023-06-26,2023-06-28,Suite,1,200,Walk-in,Confirmed,400,62
+BKG0193,Ocean View,2023-11-26,2023-11-28,Suite,4,150,Travel Agent,Cancelled,0,44
+BKG0194,Mountain Retreat,2023-01-19,2023-01-22,Standard,1,100,Website,Confirmed,300,59
+BKG0195,Mountain Retreat,2023-10-06,2023-10-10,Deluxe,1,100,Walk-in,Confirmed,400,89
+BKG0196,Grand Palace,2023-12-02,2023-12-05,Deluxe,1,120,Mobile App,Cancelled,0,87
+BKG0197,Mountain Retreat,2023-07-17,2023-07-20,Standard,4,150,Walk-in,Cancelled,0,73
+BKG0198,Ocean View,2023-02-12,2023-02-16,Standard,4,200,Travel Agent,Confirmed,800,60
+BKG0199,Grand Palace,2023-02-10,2023-02-13,Suite,3,120,Mobile App,Confirmed,360,67
+BKG0200,Sunset Inn,2023-12-20,2023-12-24,Deluxe,4,75,Walk-in,Confirmed,300,67

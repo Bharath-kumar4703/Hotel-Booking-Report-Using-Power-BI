@@ -33,6 +33,9 @@ The dataset is a synthetic file created for educational and portfolio purposes w
 | Total_Amount        | Total revenue from the booking                   |
 | Rooms_Available     | Rooms available during booking period            |
 
+## Data Files and Report
+
+
 ---
 
 ## 🔧 DAX Measures Used

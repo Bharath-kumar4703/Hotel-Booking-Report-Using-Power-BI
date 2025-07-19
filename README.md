@@ -7,14 +7,6 @@ The goal is to help hotel management teams identify booking patterns, optimize p
 
 ---
 
-## 🎯 Key Objectives
-- Monitor business performance across hotel branches
-- Track essential KPIs like ADR, RevPAR, and Occupancy Rate
-- Identify revenue trends, booking channels, and guest behaviors
-- Reduce cancellations and improve room utilization
-- Provide actionable insights through dynamic visuals and drillthroughs
-
----
 
 ## 🗂️ Dataset Description
 The dataset is a synthetic file created for educational and portfolio purposes with 200+ records. It includes the following fields:
@@ -36,6 +28,47 @@ The dataset is a synthetic file created for educational and portfolio purposes w
 ## Data Files 
 - <a href = "https://github.com/Bharath-kumar4703/Hotel-Booking-Report-Using-Power-BI/blob/main/Hotel_Booking_Data.csv">Hotel_Booking_Data</a>
 - <a href = "https://github.com/Bharath-kumar4703/Hotel-Booking-Report-Using-Power-BI/blob/main/Power%20BI%20Report">Report</a>
+
+---
+## 📈 Visual Insights:
+
+1. Top Performing Hotels (Donut Chart):
+
+  Ocean View is the most booked hotel with 58 bookings (29%).
+
+  Closely followed by Grand Palace (56 bookings) and Mountain Retreat (46 bookings).
+
+2. Room Type Demand (Bar Chart):
+
+  Deluxe Rooms were booked 183 times (most preferred).
+
+  Suite Rooms – 163 bookings
+
+  Standard Rooms – 159 bookings
+
+3. Booking Status Overview (Bar Chart):
+
+  Majority of bookings are Confirmed (150).
+
+  34 bookings were Cancelled and 16 were No-shows.
+
+4. Monthly Booking Trend (Line Chart):
+
+  March saw the highest number of check-ins (23), followed by April (22) and December (20).
+
+  Lowest bookings occurred in August (11).
+
+5. Booking Channel Distribution (Bar Chart):
+
+  Travel Agents generated the most bookings (58), followed by Mobile App (56).
+
+  Walk-ins (47) and Website (39) had relatively lower shares.
+
+6. Top Long-Staying Guests (Table Visual):
+
+  Multiple guests had 5 staying members, mainly at Ocean View, Sunset Inn, and Mountain Retreat.
+
+  Booking ID BKG0010 at Ocean View had 5 members – highest observed in the dataset.
 
 ---
 
